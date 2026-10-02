@@ -241,4 +241,4 @@ This repository serves as the official landing page for Squeak!. The software is
 **Get the most recent version of Squeak! today!**
 
 ---
-**Last updated:** 2026-10-01 22:08:27 UTC
+**Last updated:** 2026-10-02 01:53:18 UTC
